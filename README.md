@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/joylyn_wambui" target="blank"><img src="https://img.shields.io/twitter/follow/joylyn_wambui?logo=twitter&style=for-the-badge" alt="joylyn_wambui" /></a> </p>
 
-- 🔭 I’m currently working on **alx-low_level_programming**
+- 🔭 I’m currently working on **Fron-end Development**
 
-- 🌱 I’m currently learning **C Programming**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 💬 Ask me about **TECH**
 
