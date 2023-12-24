@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/joylyn_wambui" target="blank"><img src="https://img.shields.io/twitter/follow/joylyn_wambui?logo=twitter&style=for-the-badge" alt="joylyn_wambui" /></a> </p>
 
-- 🔭 I’m currently working on **Fron-end Development**
+- 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **HTML & CSS**
 
